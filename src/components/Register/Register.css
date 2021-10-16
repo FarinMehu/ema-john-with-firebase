@@ -1,0 +1,12 @@
+.register_form{
+    /* text-align: center; */
+    margin-left: 38%;
+    margin-top: 4rem;
+    width: 300px;
+    border: 1px solid lightslategray;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+.labels{
+    font-weight: 500;
+}
